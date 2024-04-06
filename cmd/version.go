@@ -7,9 +7,9 @@ import (
 )
 
 var (
-	version = "0.0.0"
-	commit  = "unknown"
-	date    = "unknown"
+	version = "0.1.0"
+	commit  = "9677bacb5c249f43a86a1ecdc049c1fde02b9f7f"
+	date    = "2024-04-06"
 )
 
 var versionCmd = &cobra.Command{
