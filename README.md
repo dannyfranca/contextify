@@ -29,7 +29,7 @@ go install github.com/dannyfranca/contextify@latest
 ```
 
 ```bash
-contextify --version
+contextify version
 ```
 
 You should see the version number of Contextify printed in the terminal.
